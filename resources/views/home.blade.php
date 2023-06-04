@@ -9,6 +9,21 @@
 <body>
     <h1>HELLO WORLD</h1>
 
+    <nav>
+        <ul>
+            <li>
+                <a href="/about-us">About us</a>
+            </li>
+            <li>
+                <a href="/contacts">Contacts</a>
+            </li>
+            <li>
+                <a href="/support">Support</a>
+            </li>
+        </ul>
+    </nav>
+
+
 
 
 
